@@ -41,9 +41,15 @@ Réalisé sur Power BI. *(disponible dans le repository)*
 ## Résultats
 
 📌 Vélos les plus vendus et les plus rentables : Route / Montagne / Tourisme ;
-📌 Catégorie la plus populaire et vendue : Accessoires
+
+📌 Catégorie la plus populaire et vendue : Accessoires ;
+
 📌 Produits les plus vendus : Bouteilles d'eau, chambres à air, pneus, casque ;
+
 📌 Région / Départements : Région Parisienne et Nord ;
+
 📌 Tranches d'âge les plus intéressées par la pratique du vélo : 25-64 ans ;
+
 📌 Année avec le plus de CA et profit : 2015 ;
+
 📌 Mois avec le plus de ventes : Juin et Décembre (saisonnalité).
