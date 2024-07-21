@@ -46,7 +46,7 @@ Réalisé sur Power BI. *(disponible dans le repository)*
 
 📌 Produits les plus vendus : Bouteilles d'eau, chambres à air, pneus, casque ;
 
-📌 Région / Départements : Région Parisienne et Nord ;
+📌 Région / Département le plus prolifique : Région Parisienne et Nord ;
 
 📌 Tranches d'âge les plus intéressées par la pratique du vélo : 25-64 ans ;
 
