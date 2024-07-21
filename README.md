@@ -1,4 +1,4 @@
-# Bike Sakes Data Analysis in France
+# Bike Sales Data Analysis in France
 
 *(Passage Titre Data Analyst - Wild Code School (in French))*
 
